@@ -1,6 +1,5 @@
 from math import cos, sin, pi
 import pygame
-import globalVar
 
 class entity:
     def __init__(self):
